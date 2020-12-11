@@ -2,13 +2,10 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## For acessing the project
 
-The workspace contains two folders by default, where:
+- Clone the repository
+- Open the project in the VS Code.
+- Run the java code
+- Open your browser and enter the following URL in the address bar :  http://localhost:8000/api/Istanbul
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
